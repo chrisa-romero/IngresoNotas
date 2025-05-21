@@ -1,12 +1,12 @@
-IF EXISTS (SELECT name FROM sys.databases WHERE name = 'IngresoNotas')
+IF EXISTS (SELECT name FROM sys.databases WHERE name = 'candidato05')
 BEGIN
-	DROP DATABASE IngresoNotas
+	DROP DATABASE candidato05
 END
 
-CREATE DATABASE IngresoNotas
+CREATE DATABASE candidato05
 GO
 
-USE IngresoNotas
+USE candidato05
 GO
 
 CREATE TABLE Alumnos (
