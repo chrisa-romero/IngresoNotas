@@ -1,0 +1,1 @@
+Correr el script 'SQLIngresoNotasDB.sql' antes de correr el programa.
